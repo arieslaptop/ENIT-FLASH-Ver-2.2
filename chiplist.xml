@@ -254,6 +254,7 @@
 	  <GD25LQ064C_1.8V id="C86017" page="256" size="8388608"/>
 	  <GD25LQ128C_1.8V id="C86018" page="256" size="16777216"/>
 	  <GD25LQ256C_1.8V id="C86019" page="256" size="33554432"/>
+          <GD25B256DYIG_1.8V id="C84019" page="256" size="33554432"/>
       <MD25T80 id="C83114" page="256" size="1048576"/>
       <MD25D20 id="514012" page="256" size="262144"/>
       <MD25D40 id="514013" page="256" size="524288"/>
@@ -849,6 +850,7 @@
       <W25X80V id="EF3014" page="256" size="1048576"/>
 	  <W25M512JV id="EF7119" page="256" size="67108864"/>
 	  <W25R256JV id="EF4019" page="256" size="33554432"/>
+          <W74MT2JWS id="EF6018" page="256" size="16777216"/>
     </WINBOND>
     <XICOR>
       <X25010 page="4" size="128" spicmd="95"/>
